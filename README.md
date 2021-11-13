@@ -1,8 +1,8 @@
 # Hello, i'm Nicholas! 😄
 
 ## About
-- I'm currently studying Computer Science at the National University of Singapore 💻
-- Interests: Neural Networks, Data Visualization, Cloud Computing 🖱 
+- I'm currently studying Computer Science at the National University of Singapore
+- Interests: Neural Networks, Data Visualization, Cloud Computing
 - I enjoy food, photography, and working on personal projects in my free time! 📷
 
 ## Languages & Tools
