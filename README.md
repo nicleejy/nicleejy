@@ -1,9 +1,9 @@
 # Hello, i'm Nicholas! 😄
 
 ## About
-- I'm currently studying Computer Science at the National University of Singapore
-- Interests: Neural Networks, Data Visualization, Cloud Computing
-- I enjoy food, photography, and working on personal projects in my free time! 📷
+- I'm currently a student reading Computer Science at the National University of Singapore
+- Interests: Neural Networks, Data Visualization, Bots
+- I enjoy food, photography and filming videos in my free time! 📷
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
