@@ -14,5 +14,4 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicleejy&theme=algolia)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicleejy&theme=algolia&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicleejy&count_private=true&theme=algolia)
