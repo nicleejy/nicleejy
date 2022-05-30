@@ -1,7 +1,8 @@
 # Hello, i'm Nicholas! 😄
 
 ## About
-- I'm a Year 1 student reading Computer Science at the National University of Singapore
+- I'm a student at the National University of Singapore
+- Majoring in: Computer Science
 - Interests: Deep learning, Data Analaysis/Visualization, Automation/Bots
 - I enjoy food, photography and filming videos in my free time! 📷
 
