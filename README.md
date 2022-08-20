@@ -2,7 +2,6 @@
 
 ## About
 - I'm a student at the National University of Singapore
-- Majoring in: Computer Science
 - Interests: Deep learning, Data Analaysis/Visualization, Automation/Bots
 - I enjoy food, photography and filming videos in my free time! 📷
 
