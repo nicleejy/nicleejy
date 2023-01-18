@@ -1,16 +1,33 @@
-# Hello, i'm Nicholas! 😄
+# Hello, I'm Nicholas! 👋
 
-## About
-- I'm a Year 2 Computer Science student at the National University of Singapore
-- Interests: Deep learning, Data Analaysis/Visualization, Automation/Bots
-- I enjoy food, photography and filming videos in my free time! 📷
+### About me
+- 🖥️ Second year Computer Science student at the National University of Singapore
+- 🔥 Interested in Web & Mobile Development, Data Analaysis & Visualization, Bots & Automation
+- 📷 I enjoy doing photography, videography, graphic design in my free time!  
 
-## Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicleejy&count_private=true&theme=nightowl)
 
+### Frameworks & Tools
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" alt="react" title="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" alt="node" title="node"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" alt="flutter" title="flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50px" alt="heroku" title="heroku"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50px" alt="postgresql" title="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50px" alt="graphql" title="graphql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50px" alt="mongodb" title="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50px" alt="express" title="express">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50px" alt="firebase" title="firebase">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50px" alt="flask" title="flask">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" alt="git" title="git"/>
+</span>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicleejy&count_private=true&theme=algolia)
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicleejy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+### Languages
+<span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50px" alt="python" title="python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" alt="html" title="html">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" alt="css" title="css">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" alt="javascript" title="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50px" alt="dart" title="dart">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" alt="java" title="java">
+</span>
