@@ -6,7 +6,7 @@
 - 📷 I enjoy doing photography, videography, graphic design in my free time!  
 
 ### My Portfolio Site
-https://nicleejy-website.vercel.app/
+https://www.nicholaslee.dev/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicleejy&count_private=true&theme=nightowl)
 
