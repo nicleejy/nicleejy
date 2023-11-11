@@ -8,8 +8,6 @@
 ### My Portfolio Site
 https://www.nicholaslee.dev/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicleejy&count_private=true&theme=nightowl)
-
 ### Frameworks & Tools
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" alt="react" title="react"/>
