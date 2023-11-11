@@ -1,7 +1,7 @@
 # Hello, I'm Nicholas! 👋
 
 ### About me
-- 🖥️ Second year Computer Science student at the National University of Singapore
+- 🖥️ Penultimate year Computer Science student at the National University of Singapore
 - 🔥 Interested in Web & Mobile Development, Data Analaysis & Visualization, Bots & Automation
 - 📷 I enjoy doing photography, videography, graphic design in my free time!  
 
